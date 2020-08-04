@@ -1,0 +1,30 @@
+[
+    {
+        "id": 3,
+        "first_name": "Raj",
+        "last_name": "Rajput",
+        "roll_no": 10,
+        "dob": "2020-08-11"
+    },
+    {
+        "id": 4,
+        "first_name": "Abishkar",
+        "last_name": "Singh",
+        "roll_no": 45,
+        "dob": "1999-12-12"
+    },
+    {
+        "id": 5,
+        "first_name": "Rahul",
+        "last_name": "Singh",
+        "roll_no": 40,
+        "dob": "2000-12-12"
+    },
+    {
+        "id": 2,
+        "first_name": "Nishant",
+        "last_name": "Saini",
+        "roll_no": 30,
+        "dob": "1992-07-16"
+    }
+]
